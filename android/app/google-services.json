@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "75513311741",
+    "project_id": "citymallonline-8770e",
+    "storage_bucket": "citymallonline-8770e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75513311741:android:e7c7f5d2a45c6082a92994",
+        "android_client_info": {
+          "package_name": "com.example.citymallonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75513311741-7ihvalb4ccb27hfufb8k1infcrvpsqke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYn7mXFO0XhLWL7nSbAOXP8SfmJbyhjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75513311741-7ihvalb4ccb27hfufb8k1infcrvpsqke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75513311741-kvv66o6cegjvmllqsm8rhosjprrk6b79.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.citymallonline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
